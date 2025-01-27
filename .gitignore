@@ -5,6 +5,10 @@ __pycache__/
 
 instance/
 
+*~
+*.swp
+*.swo
+
 .pytest_cache/
 .coverage
 htmlcov/
