@@ -7,12 +7,12 @@ Progress Thus far:
 [o]    Project Layout
 [o]    Application Setup
 [o]    Define and Access the Database
-[x]    Blueprints and Views
-[x]    Templates
-[x]    Static Files
-[x]    Blog Blueprint
+[o]    Blueprints and Views
+[o]    Templates
+[o]    Static Files
+[o]    Blog Blueprint
 [x]    Make the Project Installable
-[x]    Test Coverage
+[o]    Test Coverage
 [x]    Deploy to Production
 [x]    Keep Developing!
 
